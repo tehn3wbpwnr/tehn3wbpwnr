@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @tehn3wbpwnr
 - 👀 I’m interested in Gaming, Fitness(mostly lifting and rock climbing), fantasy fiction, and more!
 - 🌱 I’m currently learning Software Engineering Technology at Conestoga College.
-- 💞️ I’m looking to collaborate on school projects eventually, maybe after year one I will back to try some projects out.
-- 📫 How to reach me I'll add stuff here eventually :)
+-  I am finishing my second year and will be entering a CO-OP position this spring working on VR/AR software through the VAR Lab at the college
+- 💞️ I’m looking to collaborate on school projects eventually, and perhaps look into getting some PR's on some OSS.
+- 📫 How to reach me jmoore0177@hotmail.com is my main email.
 
 <!---
 This is the beginning of my Git journey and learning software so this may all be palceholder :)
