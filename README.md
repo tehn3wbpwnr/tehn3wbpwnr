@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tehn3wbpwnr
+- 👋 Hi, I’m @tehn3wbpwnr Linkedin: https://www.linkedin.com/in/joshua-moore-set/
 - 👀 I’m interested in Gaming, Fitness(mostly lifting and rock climbing), fantasy fiction(Brandon Sanderson and Joe Abercrombie are my two favourite authours), and more!
 - 🌱 I’m currently learning Software Engineering Technology at Conestoga College.
 -  I am in my third year after finishing a Co-op with Conestogas VAR Lab https://www.linkedin.com/company/varlab-virtual-and-augmented-reality-lab/?originalSubdomain=ca
