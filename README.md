@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Josh Moore Linkedin: https://www.linkedin.com/in/joshua-moore-set/
 - I'm a graduate of the Software Engineering Technology program from Conestoga College.
-- Here are some of things I worked on over my co-op with the now defunct CVRI (Center for virtual reality research and innovation), which have now been open sourced! In the "OER DevOps intro.docx" files I will be listed as a contributor "Joshua Moore".
-- If I find some time I may re-contribute to these as well.
+- Here are some of things I worked on over my co-op with the now defunct CVRI (Center for virtual reality research and innovation), which have now been open sourced! In the "OER DevOps intro.docx" files I will be listed as a contributor "Joshua Moore". We migrated from Bitbucket so the commit history is unattached unfortunately.
 - https://github.com/CC-Open-Learning/CORE-analytics - Foundational analytics system built to support the VR sims
 - https://github.com/CC-Open-Learning/DLX-backhoe - Learning simulation related to the start of day/start up inspection of a back hoe
 - https://github.com/CC-Open-Learning/CORE-LTI-integration - Integrating LTI communication into the sims to communicate with LMS (such as econestoga or other online educational platforms)
